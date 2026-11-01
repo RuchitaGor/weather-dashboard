@@ -2,7 +2,7 @@
 
 A responsive weather app built with React and Vite. Search any city to see the current weather and a 5-day forecast, with a background that changes with the weather.
 
-![Weather Dashboard screenshot](screenshot.png)
+![Weather Dashboard screenshot](screenshot.png.jpeg)
 
 **Live demo:** _add link here after deployment_
 

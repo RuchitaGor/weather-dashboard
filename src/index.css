@@ -1,0 +1,18 @@
+/* All theme colours are stored here. Change them once, the whole app updates. */
+:root {
+  --bg: #0e1526;
+  --surface: #172036;
+  --surface-2: #1f2c47;
+  --border: #2a3857;
+  --text: #e8edf7;
+  --muted: #92a1bf;
+  --accent: #3d8bfd;
+  --accent-hover: #5a9fff;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  color-scheme: dark;
+}
